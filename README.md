@@ -119,3 +119,64 @@ creating_and_normalazing_db/
 </details>
 
 Создание таблиц и запросы описаны в [SQL-скрипте](https://github.com/steishas/homework2mipt_postgressql/blob/main/%D0%A1%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90_%D0%9C.sql).
+
+## Результаты запросов
+
+ <hr>
+
+<details>
+<summary><b>Запрос 1:</b></summary>
+
+<img src="Запрос 1.png" alt="Запрос 1" width="2000" height="1000">
+
+</details>
+
+<details>
+<summary><b>Запрос 2:</b></summary>
+
+<img src="Запрос 2.png" alt="Запрос 2" width="2000" height="1000">
+
+</details>
+
+<details>
+<summary><b>Запрос 3:</b></summary>
+
+<img src="Запрос 3.png" alt="Запрос 3" width="2000" height="1000">
+
+</details>
+
+<details>
+<summary><b>Запрос 4:</b></summary>
+
+<img src="Запрос 4.png" alt="Запрос 4" width="2000" height="1000">
+
+</details>
+
+<details>
+<summary><b>Запрос 5:</b></summary>
+
+<img src="Запрос 5.png" alt="Запрос 5" width="2000" height="1000">
+
+</details>
+
+
+<details>
+<summary><b>Запрос 6:</b></summary>
+
+<img src="Запрос 6.png" alt="Запрос 6" width="2000" height="1000">
+
+</details>
+
+<details>
+<summary><b>Запрос 7:</b></summary>
+
+<img src="Запрос 7.png" alt="Запрос 7" width="2000" height="1000">
+
+</details>
+
+<details>
+<summary><b>Запрос 8:</b></summary>
+
+<img src="Запрос 8.png" alt="Запрос 8" width="2000" height="1000">
+
+</details>
