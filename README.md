@@ -10,8 +10,6 @@
 creating_and_normalazing_db/
 ├── 📁 sql_sripts/              # SQL-скрипты
 │   └── 📄 Смирнова_А.М.sql
-├── 📁 Artifacts/               
-│   └── 📄 Смирнова А.М.docx    # Документ со скриншотами из DB
 ├── 📄 README.md                # Документация
 
 ```
@@ -81,8 +79,43 @@ creating_and_normalazing_db/
 
 </details>
 
-## Загрузка данных
+## Загрузка данных и запросы
+
+ <hr>
 
 После загрузки данных в DBeaver БД имеет следующий вид:
 
 <img src="db_scheme.png" alt="Схема базы данных" width="2000" height="1000">
+
+<details>
+<summary><b>Таблица 'customer':</b></summary>
+
+<img src="customer.png" alt="Клиенты" width="2000" height="1000">
+
+</details>
+
+<details>
+ 
+<summary><b>Таблица 'product':</b></summary>
+
+<img src="product.png" alt="Продукты" width="2000" height="1000">
+
+</details>
+
+<details>
+ 
+<summary><b>Таблица 'orders':</b></summary>
+
+<img src="orders.png" alt="Заказы" width="2000" height="1000">
+
+</details>
+
+<details>
+ 
+<summary><b>Таблица 'order_items':</b></summary>
+
+<img src="order_items.png" alt="Предметы в заказах" width="2000" height="1000">
+
+</details>
+
+Создание таблиц и запросы описаны в [SQL-скрипте](https://github.com/steishas/homework2mipt_postgressql/blob/main/%D0%A1%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90_%D0%9C.sql).
