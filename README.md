@@ -7,7 +7,7 @@
 ## 📁 Структура проекта
 
 ```text
-creating_and_normalazing_db/
+homework2mipt_postgressql/
 ├── 📁 sql_sripts/              # SQL-скрипты
 │   └── 📄 Смирнова_А.М.sql
 ├── 📄 README.md                # Документация
